@@ -3,7 +3,7 @@ require 'pry'
 
 class Author
   attr_accessor :name
-  attr_reader :songs
+  attr_reader :posts
   
   @@post_count = 0
   
