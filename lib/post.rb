@@ -5,4 +5,4 @@ class Post
   end 
   
   
-def 
+end
